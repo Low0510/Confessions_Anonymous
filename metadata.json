@@ -1,0 +1,8 @@
+{
+  "name": "UniConfess",
+  "description": "An anonymous space for university students to share thoughts, images, and voice notes, enhanced with AI sentiment analysis.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
